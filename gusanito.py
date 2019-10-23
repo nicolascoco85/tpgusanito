@@ -159,15 +159,8 @@ print("     |__OO ")
 print("     |   O")
 print("     |   OÖ")
 
-time.sleep(0.5)
-os.system(var)
+nombre=input("ingresa tu nombre: ")
 
-print("")
-print("     | ")
-print("     | ")
-print("     |___O ")
-print("     |   O")
-print("     |   OOÖ")
 
 time.sleep(0.5)
 os.system(var)
